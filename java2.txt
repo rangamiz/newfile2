@@ -24,4 +24,20 @@
             float: right;
         }
     </style>
-</head>
+</h<body>
+<button id="left"> <</button>
+<div id="slideshow">
+    <div class="slideshow_items" style="background-color: #0aa2c0">
+    </div>
+    <div class="slideshow_items" style="background-color: #0a53be">
+
+    </div>
+    <div class="slideshow_items" style="background-color: #2b0a1a">
+    </div>
+    <div id="slidebutton" style="background-color: #1aa179">
+        <br><br><br>
+        <button id="slid">info</button>
+
+
+    </div>
+</div>ead>
