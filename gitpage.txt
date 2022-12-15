@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>git proje</title>
+    <style>
+        .btn {
+            width: 50px;
+            height: 40px;
+            background-color: #00cc00;
+            display: inline-block;
+
+        }
+
+        .btn:hover {
+            background-color: white;
+            color: red;
+            cursor: pointer;
+        }
+
+        #content {
+            width: 1000px;
+            height: 200px;
+            background-color: #bbbbbb;
+            float: right;
+        }
+    </style>
+</head>
+<body>
+<div id="content">
+    <button class="btn" value="info">infp</button>
+    <button class="btn" value="adress">adress</button>
+    <button class="btn" value="color">color</button>
+</div>
+<div class="btn-tab">it is good</div>
+<div class="btn-tab">it is bad</div>
+<div class="btn-tab">it is so-so</div>
+<script>
+
+
+</script>
+</body>
+</html>
